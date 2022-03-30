@@ -1,0 +1,7 @@
+方法二：直接在命令行上用source导入函数库
+$ . funcs.sh
+$ div 5 0
+Divide by zero!
+
+
+https://blog.csdn.net/Lirx_Tech/article/details/39668885 shell 函数基础
